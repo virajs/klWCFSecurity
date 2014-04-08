@@ -1,4 +1,4 @@
-klWCFSecurity
-=============
+klSecurity
+==========
 
-Demo of certificate based WCF security configuration
+Security
